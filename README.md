@@ -50,6 +50,49 @@ A “Sign Up” button leading to a registration form, or a search bar that allo
 
 ---
 
+---
+
+## 🧩 Types of Wireframes
+
+Wireframes can vary in complexity and detail depending on the stage of the design process. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 🔹 Low-Fidelity Wireframes
+Low-fidelity wireframes are **basic sketches or outlines** that focus on structure, layout, and content hierarchy.  
+They are usually created early in the design process to explore ideas quickly.
+
+**Characteristics:**
+- Simple shapes and grayscale colors  
+- Placeholder text (like “Lorem Ipsum”) and image boxes  
+- No detailed styling or branding  
+
+**When to Use:**  
+During the **early brainstorming and planning stage** to communicate ideas and get feedback before investing in detailed design work.
+
+**Example Tool:** Pen and paper, Balsamiq, or simple whiteboard sketches.
+
+---
+
+### 🔹 High-Fidelity Wireframes
+High-fidelity wireframes are **detailed and realistic** representations of the final interface.  
+They include specific typography, colors, images, and sometimes interactive elements.
+
+**Characteristics:**
+- Detailed visuals and near-final UI components  
+- Accurate spacing, alignment, and real content  
+- Sometimes clickable or interactive  
+
+**When to Use:**  
+During the **later stages** of design—right before prototyping or development—to communicate precise visuals and interactions to developers and stakeholders.
+
+**Example Tool:** Figma, Adobe XD, Sketch, or Axure.
+
+---
+
+## 🖼️ What Type of Wireframe is This?
+<img width="343" height="428" alt="image" src="https://github.com/user-attachments/assets/b93bacba-27d5-4571-b271-d899ab0b282c" />
+
+Answer: This wireframe is a high-fidelity wireframe because it shows the final look and feel of the app design.
+
 ## 🧠 Conclusion
 Wireframing is more than just sketching boxes—it’s a strategic process that lays the groundwork for effective and user-friendly digital experiences.  
 By focusing on structure, navigation, content placement, and functionality, wireframes ensure that every design decision supports the user journey and overall product goals.
